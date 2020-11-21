@@ -9,4 +9,4 @@
 - 📫 How to reach me nguyentranfw@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran-se)](https://github.com/nguyentran-se/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nguyentran-se)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=dark&show_icons=true)
