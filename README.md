@@ -7,4 +7,6 @@
 - 😄 Pronouns: He/him.
 - ⚡️ Fun-Fact: I has just forgotten it.
 - 📫 How to reach me nguyentranfw@gmail.com
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
