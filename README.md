@@ -10,5 +10,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran-se)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=nightowl&show_icons=true&include_all_commits=true)
-
+![](https://visitor-badge.glitch.me/badge?page_id=nguyentran-se)
 
