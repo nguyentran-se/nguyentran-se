@@ -23,5 +23,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=react&show_icons=true&include_all_commits=true)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nguyentran-se)
-![Visitor Count](https : //profile-counter.glitch.me/nguyentran-se/count.svg)
+
 
