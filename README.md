@@ -8,7 +8,6 @@
 - ⚡️ Fun-Fact: I has just forgotten it.
 - 📫 How to reach me nguyentranfw@gmail.com
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran-se&langs_count=8" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran-se&langs_count=6)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=nightowl&show_icons=true&include_all_commits=true)
 
