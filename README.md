@@ -26,7 +26,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran-se&layout=compact" height=130 />
 
-<img width=500 src="https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=react&show_icons=true&include_all_commits=true" />
+<img width=300 src="https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=react&show_icons=true&include_all_commits=true" />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=react&show_icons=true&include_all_commits=true)
 
