@@ -21,7 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran-se)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran-se&hide=java)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=react&show_icons=true&include_all_commits=true)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nguyentran-se)
