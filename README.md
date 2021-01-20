@@ -26,6 +26,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran-se&layout=compact" height=130 />
 
 
-<img align="right" width=395 heigh=195 src="https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=react&show_icons=true&include_all_commits=true" />
+<img align="right" width=440 heigh=195 src="https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=react&show_icons=true&include_all_commits=true" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nguyentran-se)
