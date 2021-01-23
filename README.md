@@ -1,6 +1,6 @@
 ### Hi guys, I'm Nguyen! 👋
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="300" />
 
 **About me:** 
 - 🎓 I'm currently a student at FPT university.
