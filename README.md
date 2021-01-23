@@ -22,8 +22,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran-se&layout=compact&hide=Rust" height=130 /><br>
-<img align="right" width=440 heigh=195 src="https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=react&show_icons=true&include_all_commits=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran-se&layout=compact&hide=Rust" height=130 />
+<img align="right" width=440 heigh=195 src="https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=react&show_icons=true&include_all_commits=true" /><br>
 
 
 
