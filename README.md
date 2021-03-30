@@ -28,6 +28,6 @@
 
 
 
-<div style="text-align:bottom"><img src="https://visitor-badge.glitch.me/badge?page_id=nguyentran-se" /></div>
+<img align="bottom" src="https://visitor-badge.glitch.me/badge?page_id=nguyentran-se" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nguyentran-se)
