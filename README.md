@@ -4,7 +4,7 @@
 
 **About me:** 
 - 🎓 I'm currently a student at FPT university.
-- 💪 I’m currently learning ReactJS.
+- 💪 I’m currently working with ReactJS.
 - ❤️ I’m looking for help with best practices in ReactJS.
 - 💬 Ask me about anything, I will answer as best what I can.
 - 😄 Pronouns: He/him.
