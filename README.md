@@ -4,8 +4,8 @@
 
 **About me:** 
 - 🎓 I'm currently a student at FPT university.
-- 💪 I’m currently working with ReactJS.
-- ❤️ I’m looking for help with best practices in ReactJS.
+- 💪 I’m currently working with ReactJS and Angular.
+- ❤️ I’m looking for help with best practices in ReactJS and Angular.
 - 💬 Ask me about anything, I will answer as best what I can.
 - 😄 Pronouns: He/him.
 - ⚡️ Fun-Fact: I has just forgotten it.
