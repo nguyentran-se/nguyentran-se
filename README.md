@@ -1,4 +1,4 @@
-### Hi guys, I'm Nguyen! 👋
+### Hi guys, I'm Peppers! 👋
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="300" />
 
