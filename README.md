@@ -3,7 +3,6 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="300" />
 
 **About me:** 
-- 🎓 I'm currently a student at FPT university.
 - 💪 I’m currently working with ReactJS and Angular.
 - ❤️ I’m looking for help with best practices in ReactJS and Angular.
 - 💬 Ask me about anything, I will answer as best what I can.
