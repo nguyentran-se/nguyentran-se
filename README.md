@@ -3,8 +3,8 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="300" />
 
 **About me:** 
-- 💪 I’m currently working with ReactJS and Angular.
-- ❤️ I’m looking for help with best practices in ReactJS and Angular.
+- 💪 I’m currently working with ReactJS, Angular, Nodejs and Express.
+- ❤️ I’m looking for help with best practices in ReactJS, Angular, Nodejs and Express.
 - 💬 Ask me about anything, I will answer as best what I can.
 - 😄 Pronouns: He/him.
 - ⚡️ Fun-Fact: I has just forgotten it.
