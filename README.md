@@ -11,8 +11,8 @@
 - 📫 How to reach me nguyentranfw@gmail.com
 
 **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,redux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,nodejs,express,postgres,firebase,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,redux)](https://github.com/nguyentran-se)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,nodejs,express,postgres,firebase,git)](https://github.com/nguyentran-se)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran-se&layout=compact&hide=Rust,less,java,c%23" height=130 />
 <img align="right" width=440 heigh=195 src="https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=react&show_icons=true&include_all_commits=true" />
