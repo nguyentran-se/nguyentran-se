@@ -13,7 +13,7 @@
 **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,redux,angular,ts,nodejs,express,postgres,firebase,git&perline=7)](https://github.com/nguyentran-se)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran-se&layout=compact&hide=Rust,less,java,c%23" height=130 />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran-se&layout=compact&hide=Rust,less,java,c%23" height=150 />
 <img align="right" width=440 heigh=195 src="https://github-readme-stats.vercel.app/api?username=nguyentran-se&theme=react&show_icons=true&include_all_commits=true" />
 <br/><br/><br/><br/><br/><br/><br/>
 
