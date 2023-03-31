@@ -1,6 +1,6 @@
 ### Hi guys, I'm Peppers! 👋
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="400" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="385" />
 
 **About me:** 
 - 💪 I’m currently working with ReactJS, Angular, Nodejs and Express.
