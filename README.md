@@ -19,4 +19,4 @@
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=nguyentran-se)
+![](https://api.visitorbadge.io/api/VisitorHit?user=nguyentran-se&countColor=547A95)
