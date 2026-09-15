@@ -7,7 +7,6 @@
 - ❤️ I’m looking for help with best practices in ReactJS, Angular, Nodejs and Express.
 - 💬 Ask me about anything, I will answer as best what I can.
 - 😄 Pronouns: He/him.
-- ⚡️ Fun-Fact: I has just forgotten it.
 - 📫 How to reach me nguyentranfw@gmail.com
 
 **Languages and Tools:**  
